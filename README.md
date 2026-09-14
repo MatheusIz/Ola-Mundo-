@@ -1,5 +1,7 @@
 # Olá, Mundo!
 
-1° Repositodorio Git&GitHub
+1° Repositório Git & GitHub
 
-Aprendendo no Curso Em video
+Aprendendo no Curso Em vídeo!
+
+Aprendendo Alterar no próprio GitHub no site! 
